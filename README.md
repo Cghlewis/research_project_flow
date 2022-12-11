@@ -1,6 +1,6 @@
 ### Research Life Cycle Flow Chart
 
-This is a figure created to convey the distinct, yet collaborative processes of project management and data management that occur during a federally funded research data project. This image is currently used in presentations, books, and training materials around data management for large-scale education research studies.
+This is a figure created to convey the independent, yet collaborative processes of project management and data management that occur during a federally funded research data project. This image is currently used in presentations, books, and training materials around data management for large-scale education research studies.
 
 It is currently used in the following materials:
 - https://datamgmtinedresearch.com/
