@@ -9,4 +9,4 @@ The diagram is currently used in the following materials:
 
 The diagram may continue to evolve.
 
-Citation: Lewis, Crystal (2022): Research Data Life Cycle Diagram. Figure. Retrieved from link
+Citation: Lewis, Crystal (2022): Research Data Life Cycle Diagram. Figure. Retrieved from [https://github.com/Cghlewis/research_project_flow](https://github.com/Cghlewis/research_project_flow)
