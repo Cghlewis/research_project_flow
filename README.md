@@ -5,7 +5,8 @@ This is a figure created to convey the independent, yet collaborative processes 
 The diagram is currently used in the following materials:
 - https://datamgmtinedresearch.com/
 - https://cghlewis.github.io/mpsi-data-training/index.html
-- https://docs.google.com/presentation/d/1pzOmdbwQzGcDDpyFvYgkqbxm-BbEM-RBqI3pE9iJq-c/edit#slide=id.g35f391192_00
+- https://docs.google.com/presentation/d/1pzOmdbwQzGcDDpyFvYgkqbxm-BbEM-RBqI3pE9iJq-c
+- https://docs.google.com/presentation/d/1OYi3E0C3DoB3aBPDErJZiUh9WL1kUgWbvoNtXWe47qM
 
 The diagram may continue to evolve.
 
